@@ -1,5 +1,10 @@
+
+
 ## IDE
 Visual Studio Code
+
+## Video
+https://github.com/user-attachments/assets/c404c4f0-1c1d-4e7d-9bb7-6107665419fe
 
 ## Installation
 0. cd example/properties change the properties information otherwise the SDK cant be initialized.
