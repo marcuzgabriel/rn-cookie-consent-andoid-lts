@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/c404c4f0-1c1d-4e7d-9bb7-6107665419fe
 0. cd example/properties change the properties information otherwise the SDK cant be initialized.
 1. I use bun -> bun install in root
 2. Bun install in example folder
-3. cd Example folder -> run in terminal npx expo prebuild --clean. This cmd prepares all folders and files. So ensure to call it when you have changed etc. in properties. Otherwise, they wont take effect.
+3. cd Example folder -> run in terminal npx expo prebuild --clean. This cmd prepares all folders and files. So ensure to call it when you have changes etc. in properties. Otherwise, they wont take effect.
 4. from IDE; open -a /Applications/Android\ Studio.app
 5. Select the android folder as project and android studio
 6. Build and start the project
