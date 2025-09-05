@@ -24,4 +24,4 @@ I use cookie consent UISDK and the CoreSDK
 ## Problem
 Expect the same behaviour between iOS and Android when it comes to getting and accepting consents. 
 
-When I try to get consents on Android I just get empty array. When I use the core SDK I can retrieve highlevel info and afterwards accept all consents. I see both the get and post request in logcat but the UI never updates. Why?
+When I try to get consents on Android I just get empty array. When I use the core SDK I can retrieve highlevel info and afterwards accept all consents. I see both the get and post request in logcat but the UI never updates and why do the cache method return 0 cosnents? Why?
