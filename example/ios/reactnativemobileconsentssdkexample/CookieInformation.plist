@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clientSecret</key>
+	<string>aa59ab471be88980fb906bff81e10b131ad7d8463a63e023a960f7526f121d25d73ba5d246c08f77932e7608ba2d9088064d6588c4528d34dcb02d783617159c</string>
+	<key>clientID</key>
+	<string>48c03664-915f-45a1-a2d4-af47585aa57a</string>
+	<key>solutionID</key>
+	<string>8de7ef4f-9fae-44e5-8300-c62c17108d8b</string>
+	<key>enableNetworkLogger</key>
+	<true/>
+</dict>
+</plist>

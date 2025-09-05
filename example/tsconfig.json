@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "@topdanmark/mobile-insurance-mcc": ["../src/index"],
+      "@topdanmark/mobile-insurance-mcc/*": ["../src/*"]
+    }
+  }
+}

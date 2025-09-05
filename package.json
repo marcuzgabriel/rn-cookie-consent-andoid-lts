@@ -1,0 +1,41 @@
+{
+  "name": "@topdanmark/mobile-insurance-consents",
+  "version": "0.1.0",
+  "description": "Support for Cookie Information's Consent SDK in React Native",
+  "private": true,
+  "main": "src/index",
+  "types": "src/index",
+  "scripts": {
+    "build": "expo-module build",
+    "clean": "expo-module clean",
+    "lint": "expo-module lint",
+    "test": "expo-module test",
+    "prepare": "expo-module prepare",
+    "prepublishOnly": "expo-module prepublishOnly",
+    "expo-module": "expo-module",
+    "open:ios": "xed example/ios",
+    "open:android": "open -a \"Android Studio\" example/android"
+  },
+  "keywords": [
+    "react-native",
+    "expo",
+    "react-native-cookie-information-consents-sdk",
+    "ReactNativeMobileConsentsSdk"
+  ],
+  "repository": "https://github.com/topdanmark-onlinesolutions/mobile-insurance-app",
+  "bugs": {
+    "url": "https://github.com/topdanmark-onlinesolutions/mobile-insurance-app/issues"
+  },
+  "author": "Marcuz Gabriel Larsen <agl@topdanmark.dk>",
+  "license": "MIT",
+  "homepage": "https://github.com/topdanmark-onlinesolutions/mobile-insurance-app#readme",
+  "devDependencies": {
+    "expo-module-scripts": "~4.1.10",
+    "typescript": "~5.8.3"
+  },
+  "peerDependencies": {
+    "expo": "*",
+    "react": "*",
+    "react-native": "*"
+  }
+}
